@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412719423240",
+    "project_id": "go-rent-apps",
+    "storage_bucket": "go-rent-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412719423240:android:b9a99c6aca93516e9c56bd",
+        "android_client_info": {
+          "package_name": "com.example.gorentapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412719423240-jdh037du3dic712v1p5v5f6lahf9hrug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUTCikf1vx8HBeV6SUjEEyr3Us3x_R7e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412719423240-jdh037du3dic712v1p5v5f6lahf9hrug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

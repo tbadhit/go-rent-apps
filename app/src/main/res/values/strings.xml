@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Go Rent Apps</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_haveaccount">ALREADY HAVE ACCOUNT? LOGIN HERE</string>
+    <string name="todo">TODO</string>
+    <string name="logout">Logout</string>
+    <string name="car_name">Car Name</string>
+    <string name="phone">Phone</string>
+    <string name="alamat">Alamat</string>
+    <string name="date_from">Dari tanggal berapa?</string>
+    <string name="until_from">Sampai tanggal berapa?</string>
+
+    <string-array name="car_name">
+        <item>Mitsubishi All New Pajero Sport</item>
+        <item>Vw Combi</item>
+        <item>Luxury BMW M Series</item>
+        <item>Pick Up</item>
+    </string-array>
+
+    <string-array name="rental_price">
+        <item>500k/hari</item>
+        <item>500k/hari</item>
+        <item>500k/hari</item>
+        <item>300k/hari</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>@drawable/mitsubishi</item>
+        <item>@drawable/combi</item>
+        <item>@drawable/luxury</item>
+        <item>@drawable/pickup</item>
+    </string-array>
+
+    <string-array name="passenger">
+        <item>5</item>
+        <item>3</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+
+
+</resources>
